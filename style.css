@@ -1,0 +1,9 @@
+body {
+    background: #1857cc;
+    display: grid;
+    grid-gap: 5px;
+}
+
+.blood {
+    color: #cc3c18;
+}
